@@ -1,5 +1,6 @@
-package chapter01_1;
+package chapter01_1.Exercise;
 
+import chapter01_1.BinarySearch;
 import edu.princeton.cs.algs4.StdRandom;
 
 import java.util.Arrays;
